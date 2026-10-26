@@ -1,16 +1,65 @@
-## Hi there 👋
+👋 Hi, I’m Mohammed Galal
 
-<!--
-**MGIT2030/MGIT2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Information Technology Student | 🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an Information Technology student passionate about Programming, Cybersecurity, and Software Development.
+
+⸻
+
+🚀 About Me
+
+* 🎓 Information Technology Student
+* 🔐 Interested in Cybersecurity
+* 💻 Learning Software Development
+* 🧠 Always learning new technologies
+* 🎯 Goal: Become a Cybersecurity Professional
+
+⸻
+
+💻 Languages & Technologies
+
+Programming
+
+Web
+
+Tools
+
+⸻
+
+📊 GitHub Stats
+
+⸻
+
+🔥 Contribution Streak
+
+⸻
+
+🛠️ Current Learning
+
+Java        █████████░
+C++         ████████░░
+SQL         ███████░░░
+HTML/CSS    ███████░░░
+Cybersecurity ██████░░░░
+
+⸻
+
+📂 Projects
+
+🚧 More projects coming soon…
+
+I am currently building projects in:
+
+* ☕ Java
+* ⚙️ C++
+* 🗄️ SQL
+* 🌐 Web Development
+* 🔐 Cybersecurity
+
+⸻
+
+⭐ Thanks for visiting my profile!
+
+“Learn. Build. Break. Secure. Repeat.”
